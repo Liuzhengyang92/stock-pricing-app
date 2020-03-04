@@ -2,10 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How To Run
 
-In the project directory, you can run:
+1. In the project root directory, run:
 
 ### `yarn` or `npm install`
 
+2. After installing all the required packages, run:
+
 ### `npm run start` or `yarn start`
 
-Now you can navigate to http://localhost:9898/index.html for the app
+3. Now you can navigate to http://localhost:9898/index.html for the app
